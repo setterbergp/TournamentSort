@@ -2,9 +2,6 @@
 #include <array>
 using namespace std;
 
-// Tournament structure: Participants compete in the "leaf level" (lowest level) and the winners move on the "upper levels).
-// In each upper level, winners compete until a "champion" can be crowned, who goes on to the "top level" (root level).
-
 void printList(int arr[], int arrLength);
 void tournamentSort(int arr[], int arrLength);
 
