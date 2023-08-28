@@ -6,7 +6,7 @@ void printList(int arr[], int arrLength);
 void tournamentSort(int arr[], int arrLength);
 
 int main() {
-
+    
     int arr[] = { 8, 34, 233, 21, 89, 13, 5, 2, 144, 3, 55, 1 };
     int arrLength = sizeof(arr) / sizeof(arr[0]);
 
